@@ -16,6 +16,8 @@ The primary purpose of convolution is to find features in the image using the fe
 "Delving Deep into Rectifiers: Surpassing Human-level Performance on ImageNet Classification" - Kaiming He et al. (2015)
 
 ### Pooling
+
+" Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition" - Dominik Scherer et al.(2010)
 ### Flattening
 ### Full Connection
 ### Soft Max
