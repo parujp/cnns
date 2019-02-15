@@ -12,6 +12,9 @@ Thank Yann Lecun!
 The primary purpose of convolution is to find features in the image using the feature detector (filter/kernel), put them into a feature map that still preserves the spatial relationships between pixels
 
 ### ReLU Layer
+
+"Delving Deep into Rectifiers: Surpassing Human-level Performance on ImageNet Classification" - Kaiming He et al. (2015)
+
 ### Pooling
 ### Flattening
 ### Full Connection
